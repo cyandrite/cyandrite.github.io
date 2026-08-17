@@ -1,6 +1,6 @@
 # CYANDRiTE 技术笔记
 
-这是 CYANDRiTE 的个人技术记录博客，使用 GitHub Pages 和 Jekyll 构建。
+这是 CYANDRiTE 的个人技术记录博客。
 
 ## 内容方向
 
